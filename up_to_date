@@ -1,0 +1,7 @@
+git add .
+git commit -m ''
+git push
+git pull
+git --set-upstream orgin 
+git checkout  -b
+git status
